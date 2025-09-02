@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. "NGI-VISION Lab · School of Computer Science and Engineering · Northeastern University, Shenyang, China · A member of China’s '985 Project' Universities" 
+subtitle: <a href='#'>Affiliations</a>. NGI-VISION Lab · School of Computer Science and Engineering · Northeastern University, Shenyang, China · A member of China’s '985 Project' Universities
+
 
 
 profile:
